@@ -7,7 +7,7 @@
 
 - 📫 You can reach me by: **📧 email: danielburgoa50@gmail.com**
 
-- ⚡ Fun fact: **I love music, technology, cars, gaming, and i never give up until i reach my goals :D**
+- ⚡ About me: **I love music 🎵 , technology 📱 , cars 🚗 and gaming 👾, my favorite food is the pizza 🍕 ,  i never give up until i reach my goals 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
