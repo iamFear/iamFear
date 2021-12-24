@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! Im Im Daniel, but you can call me Fear.</h1>
-<h3 align="center"> a 17 years old coder and investor, who loves to share and teach his passions and knowledges to the world.</h3>
+<h1 align="center">Hello World! Im Daniel, but you can call me Fear.</h1>
+<h3 align="center">Im a 17 years old coder and investor, who loves to share and teach his passions and knowledges to the world.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
