@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Full stack development with MERN stack.**
 
-- 👨‍💻 All of my projects are available at: [https://bit.ly/3Haeo1x](https://bit.ly/3Haeo1x)
+- 👨‍💻 All of my projects are available at: [https://bit.ly/3KsVN3g](https://bit.ly/3KsVN3g)
 
 - 📫 You can reach me by: **📧 email: iamfearcoder@gmail.com**
 
