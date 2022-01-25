@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3KsVN3g](https://bit.ly/3KsVN3g)
 
-- 📫 You can reach me by: **📧 email: iamfearcoder@gmail.com**
+- 📫 You can reach me by: **📧 email: danielburgoa50@gmail.com**
 
 - ⚡ About me: **I love music 🎵 , technology 📱 , cars 🚗 and gaming 👾, my favorite food is the pizza 🍕 ,  and i never give up until i reach my goals 😄**
 
