@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! Im Daniel, but you can callmeFear.</h1>
-<h3 align="center">Im a 17 years old coder, businessman and investor, who loves to share and teach his passions and knowledges to the world. Feel free to use all the information in this profile, enjoy it and have fun! 😆</h3>
+<h3 align="center">Im a 18 years old coder, businessman and investor, who loves to share and teach his passions and knowledges to the world. Feel free to use all the information in this profile, enjoy it and have fun! 😆</h3>
 
 - 🌱 I’m currently learning: **Full stack development with MERN stack.**
 
