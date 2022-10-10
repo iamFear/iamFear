@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! Im Daniel, but you can callmeFear.</h1>
-<h3 align="center">Im a 18 years old coder, businessman and investor, who loves to share and teach his passions and knowledges to the world. Feel free to use all the information in this profile, enjoy it and have fun! 😆</h3>
+<h1 align="center">Hello World! I'm Daniel.</h1>
+<h3 align="center">Im a 18 years old coder, businessman and investor, who loves to share his passions and knowledges with the world. Feel free to use all the information in this profile, enjoy it and have fun! 😆</h3>
 
 - 🌱 I’m currently learning: **Full stack development with MERN stack.**
 
@@ -7,7 +7,7 @@
 
 - 📫 You can reach me by: **📧 email: danielburgoa50@gmail.com**
 
-- ⚡ About me: **I love music 🎵 , technology 📱 , cars 🚗 and gaming 👾, my favorite food is the pizza 🍕 ,  and I never give up until I reach my goals 😄**
+- ⚡ About me: **I love music 🎵 , technology 📱 , cars 🚗 and gaming 👾, my favorite food is the pizza 🍕 , and I never give up until I reach my goals 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
