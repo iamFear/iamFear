@@ -9,12 +9,13 @@
 
 - ⚡ About me: **
 - I love...
-Music 🎵
-Technology 📱 
-Reading 📚
-Cars 🚗
-Businesses 💼
-Working out 💪🏻
+- 
+- Music 🎵
+- Technology 📱 
+- Reading 📚
+- Cars 🚗
+- Businesses 💼
+- Working out 💪🏻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
