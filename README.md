@@ -7,7 +7,14 @@
 
 - 📫 You can reach me by: **📧 email: danielburgoa50@gmail.com**
 
-- ⚡ About me: **I love music 🎵 , technology 📱 , cars 🚗 and businesses 💼, my favorite food is the pizza 🍕 , and I never give up until I reach my goals 😄**
+- ⚡ About me: **
+- I love...
+Music 🎵
+Technology 📱 
+Reading 📚
+Cars 🚗
+Businesses 💼
+Working out 💪🏻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
