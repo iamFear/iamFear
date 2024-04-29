@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! I'm Daniel.</h1>
-<h3 align="center">I'm a 18 years old coder, businessman and investor, who loves to share his passions and knowledges with the world. Feel free to use all the information in this profile, enjoy it and have fun! 😆</h3>
+<h3 align="center">I'm a 19-year-old coder, businessman, and investor, who loves to share his passions and knowledge with the world. Feel free to use all the information in this profile, enjoy it, and have fun! 😆</h3>
 
 - 🌱 I’m currently learning: **Full stack development with MERN stack.**
 
-- 👨‍💻 All of my projects are available at: [https://bit.ly/3KsVN3g](https://bit.ly/3KsVN3g)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3KsVN3g](https://bit.ly/3KsVN3g)
 
 - 📫 You can reach me by: **📧 email: danielburgoa50@gmail.com**
 
